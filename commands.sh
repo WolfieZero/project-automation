@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source config.sh
+# source config.sh
 
 function create-project() {
     NAME=$1

@@ -10,7 +10,9 @@ Quickly create projects and repos in one command
     - `GITHUB_PAT` you only need `repo` access
 4. Install [jq](https://stedolan.github.io/jq/)
     - Easy with [brew](https://brew.sh/); `brew install jq`
-5. In your bash config `source PATH_TO_HERE/commands.sh`
+5. In your bash config add the following
+    - `source PATH_TO_HERE/config.sh`
+    - `source PATH_TO_HERE/commands.sh`
 
 ## Author
 
