@@ -1,6 +1,6 @@
 # Project Automation
 
-Quickly create projects and repos in one command
+Quickly create project scaffolding and repo in one command
 
 ## Setup
 
@@ -13,6 +13,12 @@ Quickly create projects and repos in one command
 5. In your bash config add the following
     - `source PATH_TO_HERE/config.sh`
     - `source PATH_TO_HERE/commands.sh`
+
+## Commands
+
+- `create-project Project-Name`
+  All-in-one command to create the project scaffold and repo
+  based on the `Project-Name` given
 
 ## Author
 
